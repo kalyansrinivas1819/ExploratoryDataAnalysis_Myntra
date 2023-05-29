@@ -1,1 +1,5 @@
-# ExploratoryDataAnalysis_Myntra
+# Exploratory Data Analysis on Myntra Dataset
+
+This project showcases skills in data analysis, data cleaning, and visualization, as well as ability to derive insights from the data. It highlights proficiency in Python and ability to communicate complex findings in a clear and concise manner.
+
+Conducted Exploratory Data Analysis on an E-commerce dataset to gain insights and understand key metrics. Executed data cleaning procedures to ensure data quality, including handling missing values, removing duplicates, and resolving inconsistencies. Utilized various visualizations, such as bar plots, scatter plots, and histograms, to explore relationships between variables, identify patterns, and visualize trends. Generated actionable insights by analyzing the data and presenting findings through clear and concise visualizations. Applied statistical analysis techniques to uncover correlations, trends, and relationships between different variables. Demonstrated proficiency in data manipulation, cleaning, and visualization using Python and relevant libraries. Contributed to improving data quality and reliability by implementing effective data cleaning strategies.
